@@ -58,7 +58,7 @@ Sou um entusiasta da tecnologia, música e artes, apaixonado por desenvolver sol
 - Contribuir para projetos desafiadores e inovadores.  
 
 ---
- <img 
+ - <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
@@ -70,3 +70,6 @@ Sou um entusiasta da tecnologia, música e artes, apaixonado por desenvolver sol
 <a href="https://github.com/denisschiavinatto" style="color: #5865F2;">GitHub</a> | <a href="https://linkedin.com/in/seu-usuario" style="color: #0077B5;">LinkedIn</a>
 </p>
 
+<a aria-label="Chat on Whatsapp" href="https://wa.me/5511975954285">
+<img alt="Chat on Whatsapp" src="WhatsAppButtonGreenLarge.png"/>
+<a/>
