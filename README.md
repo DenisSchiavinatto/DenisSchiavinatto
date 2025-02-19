@@ -67,9 +67,9 @@ Sou um entusiasta da tecnologia, música e artes, apaixonado por desenvolver sol
   />
 <p style="text-align: center; font-size: 1.1em;">
 💬 <strong>Vamos conectar!</strong>  
-<a href="https://github.com/denisschiavinatto" style="color: #5865F2;">GitHub</a> | <a href="https://linkedin.com/in/seu-usuario" style="color: #0077B5;">LinkedIn</a>
+<a href="https://github.com/denisschiavinatto" style="color: #5865F2;">GitHub</a> | <a href="www.linkedin.com/in/denis-schiavinatto-7b039837" style="color: #0077B5;">LinkedIn</a>
 </p>
 
-<a aria-label="Chat on Whatsapp" href="https://wa.me/5511975954285">
+<br><a aria-label="Chat on Whatsapp" href="https://wa.me/5511975954285">
 <img alt="Chat on Whatsapp" src="WhatsAppButtonGreenLarge.svg"/>
-<a/>
+<a/><br/>
