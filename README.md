@@ -71,5 +71,5 @@ Sou um entusiasta da tecnologia, música e artes, apaixonado por desenvolver sol
 </p>
 
 <a aria-label="Chat on Whatsapp" href="https://wa.me/5511975954285">
-<img alt="Chat on Whatsapp" src="WhatsAppButtonGreenLarge.png"/>
+<img alt="Chat on Whatsapp" src="WhatsAppButtonGreenLarge.svg"/>
 <a/>
